@@ -1,3 +1,10 @@
+body {
+  background-image: url(./background_squrl.png);
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+}
+
 #back-I {
   position: relative;
   z-index: -9999999;
