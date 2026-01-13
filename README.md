@@ -1,3 +1,8 @@
-# portfolio
+# Coding_Squrl
 
-another try of many for a portfolio page
+### Stream Platforms
++ YouTube
+    +@coding_squrl
++ Instagram
+    +@codingsqurl
++ Twitch
